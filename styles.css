@@ -1,0 +1,40 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+html{
+    height: 100%;
+}
+body{
+    min-height: 100%;
+}
+.page {
+    background-color: rgb(159, 214, 246);
+    min-height: 100%S;
+}
+
+.lColumb {
+    width: 300px;
+    margin: 30px;
+    text-align: center;
+    
+}
+.rColumb {
+    margin: 30px;
+}
+.imagen {
+    margin: auto auto;
+    justify-content: center;
+}
+.left {
+    background-color: aliceblue;
+    min-height: 100%S;
+}
+p, h4 {
+    color: rgb(70, 70, 70);
+    font-size: medium;
+}
+img {
+    width: 150px;
+    justify-content: center;
+}
